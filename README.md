@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Deelopemment
 - 🌱 I’m currently learning Backend Developement
 - 💞️ I’m looking to collaborate on Full Stack
-- 📫 How to reach me LinkedIn Arya Pathak
+- 📫 How to reach me LinkedIn [Arya Pathak](https://in.linkedin.com/in/arya-pathak-4268b4228)
 
 <!---
 AryaPathak/AryaPathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
