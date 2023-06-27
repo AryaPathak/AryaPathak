@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AryaPathak
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development and Machine Learning
+- 💕I have done frontend web development and learning the backend and database.
 - 📫 Reach me on LinkedIn [Arya Pathak](https://in.linkedin.com/in/arya-pathak-4268b4228)
 
 <!---
