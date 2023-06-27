@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AryaPathak
-- 👀 I’m interested in Web Deelopemment
-- 🌱 I’m currently learning Backend Developement
-- 💞️ I’m looking to collaborate on Full Stack
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend Development
 - 📫 Reach me on LinkedIn [Arya Pathak](https://in.linkedin.com/in/arya-pathak-4268b4228)
 
 <!---
