@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **MERN and ML**
+- 🌱 I’m currently learning **MERN and AI**
 
 - 🤝 I’m looking for help with **Theoretical Machine Learning**
 
-- 💬 Ask me about **JavaScript React**
+- 💬 Ask me about **JavaScript React and Neural Networks**
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
