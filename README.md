@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
-[- 📄 Know about my experiences [Resume]https://drive.google.com/file/d/13NuXsFHwcQgHmxyM1xrw484zQnBbl89B/view?usp=sharing]
+[- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13NuXsFHwcQgHmxyM1xrw484zQnBbl89B/view?usp=sharing)]
 - ⚡ Fun fact **I think I'm Chandler**
 
 <h3 align="left">Connect with me:</h3>
