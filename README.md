@@ -9,14 +9,13 @@
 
 - 🌱 I’m currently learning **MERN and AI**
 
-- 🤝 I’m looking for help with **Theoretical Machine Learning**
+- 🤝 I’m looking for help with **Neural Networks**
 
 - 💬 Ask me about **JavaScript React and Neural Networks**
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JDYVNC0VKR3vIcOtVy1sTx7EBkmyT1Li/view?usp=drive_link)
-
+[- 📄 Know about my experiences [Resume]https://drive.google.com/file/d/13NuXsFHwcQgHmxyM1xrw484zQnBbl89B/view?usp=sharing]
 - ⚡ Fun fact **I think I'm Chandler**
 
 <h3 align="left">Connect with me:</h3>
