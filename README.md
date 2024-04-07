@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/arya_pathak_12" target="blank"><img src="https://img.shields.io/twitter/follow/arya_pathak_12?logo=twitter&style=for-the-badge" alt="arya_pathak_12" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Backend Development ans LLMs**
 
 - 🌱 I’m currently learning **MERN and AI**
 
-- 🤝 I’m looking for help with **Neural Networks**
-
-- 💬 Ask me about **JavaScript React and Neural Networks**
+- 🤝 I’m looking for help with **Language Models**
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
