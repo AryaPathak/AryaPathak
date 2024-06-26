@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arya_pathak_12" target="blank"><img src="https://img.shields.io/twitter/follow/arya_pathak_12?logo=twitter&style=for-the-badge" alt="arya_pathak_12" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development ans LLMs**
+- 🔭 I’m currently working on **Backend Development and LLMs**
 
 - 🌱 I’m currently learning **MERN and AI**
 
