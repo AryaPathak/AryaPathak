@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/arya_pathak_12" target="blank"><img src="https://img.shields.io/twitter/follow/arya_pathak_12?logo=twitter&style=for-the-badge" alt="arya_pathak_12" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development and LLMs**
+- 🔭 I’m currently working on **Application Development and LLMs**
 
-- 🌱 I’m currently learning **MERN and AI**
+- 🌱 I’m currently learning **Deployment and AI**
 
-- 🤝 I’m looking for help with **Language Models**
+- 🤝 I’m looking for help with **Cross platform development**
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13NuXsFHwcQgHmxyM1xrw484zQnBbl89B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JVlW8zjtqJm5Pd_ahUl_8kOuzD8L-nJG/view?usp=drive_link)
 - ⚡ Fun fact **I think I'm Chandler**
 
 <h3 align="left">Connect with me:</h3>
