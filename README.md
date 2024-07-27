@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
-<h3 align="center">Aspiring Software Engineer Interested in WebDev and Machine Learning</h3>
+<h3 align="center">Full-stack dev Interested in Application development and AI</h3>
 
 
 
