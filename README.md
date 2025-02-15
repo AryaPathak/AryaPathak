@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Application Development and LLMs**
 
-- 🌱 I’m currently learning **Deployment and AI**
+- 🌱 I’m currently learning **Building LLMs and application deployment**
 
-- 🤝 I’m looking for help with **Cross platform development**
+- 🤝 I’m looking for help with **Tuning Language Models**
 
 - 📫 How to reach me **pathakarya012@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JVlW8zjtqJm5Pd_ahUl_8kOuzD8L-nJG/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m6wOAJSoQeCcRytXp6cnPTeSshKgqJo9/view?usp=sharing)
 - ⚡ Fun fact **I think I'm Chandler**
 
 <h3 align="left">Connect with me:</h3>
