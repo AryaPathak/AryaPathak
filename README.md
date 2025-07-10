@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://x.com/Aryology12" target="blank"><img src="https://img.shields.io/twitter/follow/arya_pathak_12?logo=twitter&style=for-the-badge" alt="arya_pathak_12" /></a> </p>
+
 
 - 🔭 I’m currently working on **Application Development and LLMs**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arya_pathak_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arya_pathak_12" height="30" width="40" /></a>
+<a href="https://twitter.com/Aryology12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aryology12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/inkedin.com/in/arya-pathak-4268b4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/arya-pathak-4268b4228/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/the_arya_12?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/the_arya_12?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/pathakarya012?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pathakarya012?hr_r=1" height="30" width="40" /></a>
